@@ -1,0 +1,35 @@
+@media screen and (max-width:1000px){
+    /* body{
+        background-color: red;
+    } */
+    header{
+        height: 140px;
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+        margin: 8px 0;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .search{
+        justify-content: center;
+    }
+    .search input{
+        margin: -3px 16px;
+        padding: 0 12px;
+    }
+    /* nav ul{
+        height: 30px;
+    } */
+    .slider{
+        height: 23vh;
+    }
+    .carditem img{
+        width: 140px;
+    }
+
+}
